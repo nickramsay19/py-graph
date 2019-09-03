@@ -1,6 +1,9 @@
 # Graph Visualiser
 > Created by Nicholas Ramsay
 
+![An image of the graph visualiser drawing 4 functions.](img.png)
+
+
 - Uses python3 + pygame
 - Draws lambda expressions on a plane
 
